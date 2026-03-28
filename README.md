@@ -9,7 +9,7 @@ The program generates a random number between 1 and 100. The player picks a diff
 ## How to Run
 
 1. Open the project in your Java IDE
-2. Run "GuessingNumberGame.java"
+2. Run 'GuessingNumberGame.java'
 3. Select a difficulty level (1, 2, or 3)
 4. Start guessing
 
